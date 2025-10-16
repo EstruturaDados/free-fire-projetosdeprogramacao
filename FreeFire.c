@@ -68,3 +68,11 @@ int main() {
 // Realiza busca binária por nome, desde que a mochila esteja ordenada por nome.
 // Se encontrar, exibe os dados do item buscado.
 // Caso contrário, informa que não encontrou o item.
+
+
+//Sistema de inventário de Mochila Virtual
+//1-Cadastrar itens(até 10)
+//2- Remover um item pelo nome
+//3- Listar rodos os itens 
+//4 - Buscar um item específico pelo nome
+
